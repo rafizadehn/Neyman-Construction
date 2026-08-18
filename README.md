@@ -1,11 +1,8 @@
-# PHSX 815: Week 8
 ## The Neyman Construction
 
 This repository includes a script that compares the measured values of a flipped coin to its actual values, and a script that can find a minimum of a 3D function. 
 
 ---
-
-### Homework 8:
 
 ### Running the Code
 The construction plots are made by the `Neyman_Construction.py` python file. This file requires python3 to run, and includes the following packages listed at the top of the script:
@@ -45,8 +42,6 @@ The more measurements that are performed and the more experiments ran, the narro
 SOURCES: Much of the code produced was made with help from [Heidelberg University and various stack overflow pages. ChatGPT assisted with a few of the syntax of the loops, as I could not figure out some of the errors I was recieving.](https://www.physi.uni-heidelberg.de/~reygers/lectures/2020/smipp/stat_methods_ws2020_08_confidence_intervals.pdf)
 
 ---
-
-### Homework 9:
 
 ### Running the Code
 The construction plots are made by the `Neyman_Construction.py` python file. This file requires python3 to run, and includes the following packages listed at the top of the script:
